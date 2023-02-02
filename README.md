@@ -2,8 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](![image1](https://user-images.githubusercontent.com/124140214/216305671-7b58bde9-4a50-4c88-b8e8-0a31d0ee6c75.jpg)
-) 
+![image1](https://user-images.githubusercontent.com/124140214/216305671-7b58bde9-4a50-4c88-b8e8-0a31d0ee6c75.jpg)
+
 
 <!-- ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg) -->
 
